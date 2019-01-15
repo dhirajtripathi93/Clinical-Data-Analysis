@@ -981,8 +981,7 @@ sns.countplot(x='SEX', hue = 'RACE',data=demographicData , palette = "Set1" )
 
 
 
-
-![png](output_36_1.png)
+![capture](https://user-images.githubusercontent.com/39188654/51154240-238e9b00-1841-11e9-97c0-afbaac2fe146.PNG)
 
 
 
