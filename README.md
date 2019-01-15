@@ -47464,7 +47464,7 @@ YY.set_ylabel("No. of days in thousands",fontsize = 18);
 ```
 
 
-![png](output_70_0.png)
+![capture1](https://user-images.githubusercontent.com/39188654/51154239-238e9b00-1841-11e9-8fd0-240a2bd53271.PNG)
 
 
 ## Executive Summary:
